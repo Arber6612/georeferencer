@@ -1,0 +1,13 @@
+numpy
+pandas
+geopandas
+rasterio
+matplotlib
+Pillow
+PyMuPDF
+opencv-python
+torch
+torchvision
+kornia
+ipykernel
+geopandas
