@@ -11,3 +11,4 @@ torchvision
 kornia
 ipykernel
 geopandas
+cv2
